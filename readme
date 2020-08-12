@@ -1,0 +1,5 @@
+pull the repository
+run npm install
+run nodemon server.js
+or
+open index.html from you local repository
